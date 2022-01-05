@@ -1,6 +1,6 @@
 {
 	"name": "@carb/react-diagrams-core",
-	"version": "6.7.0",
+	"version": "6.7.1",
 	"author": "carb",
 	"license": "MIT",
 	"repository": {
@@ -31,8 +31,8 @@
 	"module": "./dist/index.js",
 	"typings": "./dist/@types/index",
 	"dependencies": {
-		"@carb/geometry": "^6.7.0",
-		"@carb/react-canvas-core": "^6.7.0"
+		"@carb/geometry": "^6.7.1",
+		"@carb/react-canvas-core": "^6.7.1"
 	},
 	"peerDependencies": {
 		"lodash": "4.*",

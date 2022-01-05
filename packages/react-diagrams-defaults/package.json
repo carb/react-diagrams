@@ -1,6 +1,6 @@
 {
 	"name": "@carb/react-diagrams-defaults",
-	"version": "6.7.0",
+	"version": "6.7.1",
 	"author": "carb",
 	"license": "MIT",
 	"repository": {
@@ -29,7 +29,7 @@
 	"module": "./dist/index.js",
 	"typings": "./dist/@types/index",
 	"dependencies": {
-		"@carb/react-diagrams-core": "^6.7.0"
+		"@carb/react-diagrams-core": "^6.7.1"
 	},
 	"peerDependencies": {
 		"@emotion/react": "^11.*",

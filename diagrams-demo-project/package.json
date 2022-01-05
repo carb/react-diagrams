@@ -1,6 +1,6 @@
 {
 	"name": "@carb/react-diagrams-demo",
-	"version": "6.7.0",
+	"version": "6.7.1",
 	"author": "carb",
 	"license": "MIT",
 	"private": true,
@@ -25,7 +25,7 @@
 	"main": "./dist/index.js",
 	"typings": "./dist/@types/index",
 	"dependencies": {
-		"@carb/react-diagrams": "^6.7.0",
+		"@carb/react-diagrams": "^6.7.1",
 		"webpack": "^5.46.0",
 		"webpack-cli": "^4.7.2",
 		"webpack-dev-server": "^3.11.2"
