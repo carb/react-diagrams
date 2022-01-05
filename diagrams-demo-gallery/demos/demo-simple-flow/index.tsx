@@ -1,6 +1,6 @@
-import createEngine, { DiagramModel, DefaultNodeModel, DefaultDiagramState } from '@projectstorm/react-diagrams';
+import createEngine, { DiagramModel, DefaultNodeModel, DefaultDiagramState } from '@carb/react-diagrams';
 import * as React from 'react';
-import { CanvasWidget } from '@projectstorm/react-canvas-core';
+import { CanvasWidget } from '@carb/react-canvas-core';
 import { DemoCanvasWidget } from '../helpers/DemoCanvasWidget';
 
 export default () => {

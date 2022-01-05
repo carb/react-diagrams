@@ -6,10 +6,10 @@ import createEngine, {
 	DagreEngine,
 	DiagramEngine,
 	PathFindingLinkFactory
-} from '@projectstorm/react-diagrams';
+} from '@carb/react-diagrams';
 import * as React from 'react';
 import { DemoButton, DemoWorkspaceWidget } from '../helpers/DemoWorkspaceWidget';
-import { CanvasWidget } from '@projectstorm/react-canvas-core';
+import { CanvasWidget } from '@carb/react-canvas-core';
 import { DemoCanvasWidget } from '../helpers/DemoCanvasWidget';
 
 function createNode(name): any {

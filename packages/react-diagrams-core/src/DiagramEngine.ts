@@ -2,7 +2,7 @@ import { NodeModel } from './entities/node/NodeModel';
 import { PortModel } from './entities/port/PortModel';
 import { LinkModel } from './entities/link/LinkModel';
 import { LabelModel } from './entities/label/LabelModel';
-import { Point, Rectangle, Polygon } from '@projectstorm/geometry';
+import { Point, Rectangle, Polygon } from '@carb/geometry';
 import { MouseEvent } from 'react';
 import {
 	AbstractModelFactory,
@@ -13,7 +13,7 @@ import {
 	Toolkit,
 	CanvasEngineListener,
 	CanvasEngineOptions
-} from '@projectstorm/react-canvas-core';
+} from '@carb/react-canvas-core';
 import { DiagramModel } from './models/DiagramModel';
 
 /**

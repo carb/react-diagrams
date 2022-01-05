@@ -1,3 +1,8 @@
+__6.7.0__
+
+* https://github.com/projectstorm/react-diagrams/pull/915
+* Separate branch while I wait for my PR to be reviewed
+
 __6.6.1__
 
 bug fixes:

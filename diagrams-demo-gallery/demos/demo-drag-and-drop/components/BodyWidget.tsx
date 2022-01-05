@@ -3,8 +3,8 @@ import * as _ from 'lodash';
 import { TrayWidget } from './TrayWidget';
 import { Application } from '../Application';
 import { TrayItemWidget } from './TrayItemWidget';
-import { DefaultNodeModel } from '@projectstorm/react-diagrams';
-import { CanvasWidget } from '@projectstorm/react-canvas-core';
+import { DefaultNodeModel } from '@carb/react-diagrams';
+import { CanvasWidget } from '@carb/react-canvas-core';
 import { DemoCanvasWidget } from '../../helpers/DemoCanvasWidget';
 import styled from '@emotion/styled';
 

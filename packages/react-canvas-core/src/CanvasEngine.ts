@@ -6,7 +6,7 @@ import { LayerModel } from './entities/layer/LayerModel';
 import { BaseListener, BaseObserver } from './core/BaseObserver';
 import { MouseEvent } from 'react';
 import { BaseModel } from './core-models/BaseModel';
-import { Point } from '@projectstorm/geometry';
+import { Point } from '@carb/geometry';
 import { ActionEventBus } from './core-actions/ActionEventBus';
 import { PanAndZoomCanvasAction } from './actions/PanAndZoomCanvasAction';
 import { ZoomCanvasAction } from './actions/ZoomCanvasAction';

@@ -1,10 +1,10 @@
 import * as React from 'react';
-import { DiagramEngine } from '@projectstorm/react-diagrams-core';
+import { DiagramEngine } from '@carb/react-diagrams-core';
 import { PathFindingLinkModel } from './PathFindingLinkModel';
 import { PathFindingLinkWidget } from './PathFindingLinkWidget';
 import * as _ from 'lodash';
 import * as Path from 'paths-js/path';
-import { DefaultLinkFactory } from '@projectstorm/react-diagrams-defaults';
+import { DefaultLinkFactory } from '@carb/react-diagrams-defaults';
 import {
 	AbstractDisplacementState,
 	AbstractFactory,
@@ -12,7 +12,7 @@ import {
 	FactoryBank,
 	InputType,
 	ListenerHandle
-} from '@projectstorm/react-canvas-core';
+} from '@carb/react-canvas-core';
 
 export class PathFindingLinkFactory extends DefaultLinkFactory<PathFindingLinkModel> {
 	ROUTING_SCALING_FACTOR: number = 5;

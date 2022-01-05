@@ -1,11 +1,11 @@
 {
-	"name": "@projectstorm/react-diagrams-core",
-	"version": "6.6.1",
-	"author": "dylanvorster",
+	"name": "@carb/react-diagrams-core",
+	"version": "6.7.0",
+	"author": "carb",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/projectstorm/react-diagrams.git"
+		"url": "https://github.com/carb/react-diagrams.git"
 	},
 	"scripts": {
 		"clean": "rimraf ./dist",
@@ -31,8 +31,8 @@
 	"module": "./dist/index.js",
 	"typings": "./dist/@types/index",
 	"dependencies": {
-		"@projectstorm/geometry": "^6.6.1",
-		"@projectstorm/react-canvas-core": "^6.6.1"
+		"@carb/geometry": "^6.7.0",
+		"@carb/react-canvas-core": "^6.7.0"
 	},
 	"peerDependencies": {
 		"lodash": "4.*",

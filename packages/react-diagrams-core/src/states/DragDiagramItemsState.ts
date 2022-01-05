@@ -1,4 +1,4 @@
-import { Action, ActionEvent, InputType, MoveItemsState } from '@projectstorm/react-canvas-core';
+import { Action, ActionEvent, InputType, MoveItemsState } from '@carb/react-canvas-core';
 import * as _ from 'lodash';
 import { PointModel } from '../entities/link/PointModel';
 import { DiagramEngine } from '../DiagramEngine';

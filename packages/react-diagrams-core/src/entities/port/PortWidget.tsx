@@ -2,7 +2,7 @@ import * as React from 'react';
 import * as _ from 'lodash';
 import { PortModel } from './PortModel';
 import { DiagramEngine } from '../../DiagramEngine';
-import { ListenerHandle, Toolkit } from '@projectstorm/react-canvas-core';
+import { ListenerHandle, Toolkit } from '@carb/react-canvas-core';
 
 export interface PortProps {
 	port: PortModel;

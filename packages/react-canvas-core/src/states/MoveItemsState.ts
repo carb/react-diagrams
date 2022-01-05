@@ -2,7 +2,7 @@ import { AbstractDisplacementState, AbstractDisplacementStateEvent } from '../co
 import { State } from '../core-state/State';
 import { Action, ActionEvent, InputType } from '../core-actions/Action';
 import { BasePositionModel } from '../core-models/BasePositionModel';
-import { Point } from '@projectstorm/geometry';
+import { Point } from '@carb/geometry';
 import { CanvasEngine } from '../CanvasEngine';
 
 export class MoveItemsState<E extends CanvasEngine = CanvasEngine> extends AbstractDisplacementState<E> {

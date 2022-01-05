@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { RightAngleLinkWidget } from './RightAngleLinkWidget';
-import { DiagramEngine } from '@projectstorm/react-diagrams-core';
-import { DefaultLinkFactory, DefaultLinkModel } from '@projectstorm/react-diagrams-defaults';
+import { DiagramEngine } from '@carb/react-diagrams-core';
+import { DefaultLinkFactory, DefaultLinkModel } from '@carb/react-diagrams-defaults';
 import { RightAngleLinkModel } from './RightAngleLinkModel';
 
 /**

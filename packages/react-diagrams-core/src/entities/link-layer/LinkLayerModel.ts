@@ -1,4 +1,4 @@
-import { LayerModel, LayerModelGenerics } from '@projectstorm/react-canvas-core';
+import { LayerModel, LayerModelGenerics } from '@carb/react-canvas-core';
 import { LinkModel } from '../link/LinkModel';
 import { DiagramEngine } from '../../DiagramEngine';
 import { DiagramModel } from '../../models/DiagramModel';

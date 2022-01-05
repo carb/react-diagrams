@@ -1,6 +1,6 @@
 import * as PF from 'pathfinding';
 import { PathFindingLinkFactory } from '../link/PathFindingLinkFactory';
-import { PointModel } from '@projectstorm/react-diagrams-core';
+import { PointModel } from '@carb/react-diagrams-core';
 
 /*
 it can be very expensive to calculate routes when every single pixel on the canvas

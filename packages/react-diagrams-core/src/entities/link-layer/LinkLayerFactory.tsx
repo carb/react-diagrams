@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { AbstractReactFactory, GenerateModelEvent, GenerateWidgetEvent } from '@projectstorm/react-canvas-core';
+import { AbstractReactFactory, GenerateModelEvent, GenerateWidgetEvent } from '@carb/react-canvas-core';
 import { DiagramEngine } from '../../DiagramEngine';
 import { LinkLayerModel } from './LinkLayerModel';
 import { LinkLayerWidget } from './LinkLayerWidget';

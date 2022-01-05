@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { action } from '@storybook/addon-actions';
-import createEngine, { DiagramModel, DefaultNodeModel } from '@projectstorm/react-diagrams';
-import { CanvasWidget } from '@projectstorm/react-canvas-core';
+import createEngine, { DiagramModel, DefaultNodeModel } from '@carb/react-diagrams';
+import { CanvasWidget } from '@carb/react-canvas-core';
 import { DemoCanvasWidget } from '../helpers/DemoCanvasWidget';
 
 /**

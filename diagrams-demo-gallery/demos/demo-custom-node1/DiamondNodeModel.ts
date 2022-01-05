@@ -1,4 +1,4 @@
-import { NodeModel, NodeModelGenerics, PortModelAlignment } from '@projectstorm/react-diagrams';
+import { NodeModel, NodeModelGenerics, PortModelAlignment } from '@carb/react-diagrams';
 import { DiamondPortModel } from './DiamondPortModel';
 
 export interface DiamondNodeModelGenerics {

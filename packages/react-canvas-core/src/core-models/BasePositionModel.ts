@@ -1,6 +1,6 @@
 import { BaseModel, BaseModelGenerics, BaseModelListener, BaseModelOptions } from './BaseModel';
 import { BaseEntityEvent, DeserializeEvent } from './BaseEntity';
-import { Point, Rectangle } from '@projectstorm/geometry';
+import { Point, Rectangle } from '@carb/geometry';
 import { ModelGeometryInterface } from '../core/ModelGeometryInterface';
 
 export interface BasePositionModelListener extends BaseModelListener {

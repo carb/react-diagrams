@@ -1,7 +1,7 @@
 import { AbstractDisplacementState, AbstractDisplacementStateEvent } from '../core-state/AbstractDisplacementState';
 import { State } from '../core-state/State';
 import { SelectionLayerModel } from '../entities/selection/SelectionLayerModel';
-import { Point, Rectangle } from '@projectstorm/geometry';
+import { Point, Rectangle } from '@carb/geometry';
 import { ModelGeometryInterface } from '../core/ModelGeometryInterface';
 
 export class SelectionBoxState extends AbstractDisplacementState {

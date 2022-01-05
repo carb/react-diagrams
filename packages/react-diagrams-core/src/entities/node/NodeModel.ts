@@ -2,14 +2,14 @@ import * as _ from 'lodash';
 import { DiagramModel } from '../../models/DiagramModel';
 import { PortModel } from '../port/PortModel';
 import { LinkModel } from '../link/LinkModel';
-import { Point, Rectangle } from '@projectstorm/geometry';
+import { Point, Rectangle } from '@carb/geometry';
 import {
 	BaseEntityEvent,
 	BaseModelListener,
 	BasePositionModel,
 	BasePositionModelGenerics,
 	DeserializeEvent
-} from '@projectstorm/react-canvas-core';
+} from '@carb/react-canvas-core';
 import { DiagramEngine } from '../../DiagramEngine';
 
 export interface NodeModelListener extends BaseModelListener {

@@ -1,8 +1,8 @@
-import createEngine, { DiagramModel, DefaultNodeModel, LinkModel, NodeModel } from '@projectstorm/react-diagrams';
+import createEngine, { DiagramModel, DefaultNodeModel, LinkModel, NodeModel } from '@carb/react-diagrams';
 import * as _ from 'lodash';
 import * as React from 'react';
 import { DemoButton, DemoWorkspaceWidget } from '../helpers/DemoWorkspaceWidget';
-import { BaseModel, CanvasWidget } from '@projectstorm/react-canvas-core';
+import { BaseModel, CanvasWidget } from '@carb/react-canvas-core';
 import { DemoCanvasWidget } from '../helpers/DemoCanvasWidget';
 
 /**

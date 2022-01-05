@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { DefaultLinkFactory } from './DefaultLinkFactory';
-import { DiagramEngine } from '@projectstorm/react-diagrams-core';
+import { DiagramEngine } from '@carb/react-diagrams-core';
 import { DefaultLinkModel } from './DefaultLinkModel';
 
 export interface DefaultLinkSegmentWidgetProps {

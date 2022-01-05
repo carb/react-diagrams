@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { DiagramEngine, LinkWidget, PointModel } from '@projectstorm/react-diagrams-core';
+import { DiagramEngine, LinkWidget, PointModel } from '@carb/react-diagrams-core';
 import { DefaultLinkModel } from './DefaultLinkModel';
 import { DefaultLinkPointWidget } from './DefaultLinkPointWidget';
 import { DefaultLinkSegmentWidget } from './DefaultLinkSegmentWidget';

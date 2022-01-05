@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { PortWidget } from '@projectstorm/react-diagrams';
+import { PortWidget } from '@carb/react-diagrams';
 
 export class JSCustomNodeWidget extends React.Component {
 	render() {

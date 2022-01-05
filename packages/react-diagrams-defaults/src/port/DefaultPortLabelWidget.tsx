@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { DiagramEngine, PortWidget } from '@projectstorm/react-diagrams-core';
+import { DiagramEngine, PortWidget } from '@carb/react-diagrams-core';
 import { DefaultPortModel } from './DefaultPortModel';
 import styled from '@emotion/styled';
 
